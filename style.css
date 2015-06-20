@@ -1,0 +1,16 @@
+body {
+	background-color: #333;
+}
+
+#svg-container {
+	width:600px;
+	height:300px;
+	background-color: #5CA1BF;
+
+}
+
+svg {
+	width:600px;
+	height:300px;
+
+}
